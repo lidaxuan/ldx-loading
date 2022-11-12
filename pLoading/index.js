@@ -4,7 +4,7 @@
  * @Date: 2022-11-12 15:02:15
  * @FilePath: /vue-shelf/src/views/testLoading/loading/pLoading/index.js
  * @LastEditors: 李大玄
- * @LastEditTime: 2022-11-12 15:04:43
+ * @LastEditTime: 2022-11-12 17:45:46
  */
 /*
  * @Description: 
@@ -52,7 +52,7 @@ LoadingConstructor.prototype.close = function () {
 
 const map = new Map();
 
-export const Loading = (event) => {
+export const ploading = (event) => {
   const query = {
     target: event.$el || (event.target ? event.target.$el : '') || document.body,
     fullscreen: event.fullscreen || defaults.fullscreen || true,
