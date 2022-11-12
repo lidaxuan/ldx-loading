@@ -1,0 +1,23 @@
+{
+  "name": "ldx-loading",
+  "version": "1.0.0",
+  "description": "封装关于loading的简单使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidaxuan/ldx-loading.git"
+  },
+  "keywords": [
+    "loading",
+    "vue-loading"
+  ],
+  "author": "李大玄",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lidaxuan/ldx-loading/issues"
+  },
+  "homepage": "https://github.com/lidaxuan/ldx-loading#readme"
+}
