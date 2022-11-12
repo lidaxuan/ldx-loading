@@ -1,5 +1,5 @@
 {
-  "name": "ldx-loading",
+  "name": "@lijixuan/loading",
   "version": "1.0.0",
   "description": "封装关于loading的简单使用",
   "main": "index.js",
