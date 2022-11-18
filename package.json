@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/lidaxuan/ldx-loading/issues"
   },
-  "homepage": "https://github.com/lidaxuan/ldx-loading#readme"
+  "homepage": "https://github.com/lidaxuan/ldx-loading#readme",
+  "dependencies": {}
 }
