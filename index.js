@@ -2,7 +2,7 @@ const loadingMap = new WeakMap();
 
 const defaultOptions = {
   text: '',
-  fullscreen: true,
+  fullscreen: false,
   lock: true,
   customClass: '',
   color: '#409EFF',
